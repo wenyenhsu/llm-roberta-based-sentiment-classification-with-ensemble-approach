@@ -146,6 +146,7 @@ doc/*
 
 # allow only pdf
 !doc/*.pdf
+!doc/*.png
 
 # Kaggle
 kaggle.json
