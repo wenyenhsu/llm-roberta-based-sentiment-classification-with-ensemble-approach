@@ -1,28 +1,21 @@
+<<<<<<< HEAD
 # llm-roberta-based-sentiment-classification-with-ensemble-approach
 
 This project provides an end-to-end pipeline for emotion classification, including:
+=======
+# Social Sentiment Analysis : RoBERTa Ensemble Emotion Classification Pipeline
+>>>>>>> 3fc8dfa (modify readme)
 
+Built an end-to-end RoBERTa-based sentiment classification pipeline for social media text analytics.
 - Data collection from multiple datasets
 - Data preprocessing and merging
-- Model training
+- Model training with ensemble approach
 - Model evaluation
-- Optional dataset loading from Google Drive
 
 ---
+## 📁 Project Flow Structure
 
-## 📁 Project Structure
-
-.
-├── main.py
-├── data_collection.py
-├── data_preprocessing.py
-├── data_process_ready.py
-├── predict_model.py
-├── predict_evaluation.py
-├── config.py
-├── data/
-├── results/
-└── .env
+![structure.png](doc/structure.png)
 
 ---
 ## 📦 Dataset
