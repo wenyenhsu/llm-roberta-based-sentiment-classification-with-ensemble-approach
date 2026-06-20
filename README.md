@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# llm-roberta-based-sentiment-classification-with-ensemble-approach
-
-This project provides an end-to-end pipeline for emotion classification, including:
-=======
 # Social Sentiment Analysis : RoBERTa Ensemble Emotion Classification Pipeline
->>>>>>> 3fc8dfa (modify readme)
 
 Built an end-to-end RoBERTa-based sentiment classification pipeline for social media text analytics.
 - Data collection from multiple datasets
